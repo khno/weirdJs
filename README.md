@@ -1,5 +1,7 @@
 <h1 align="center">WeirdJs</h1>
 
+https://github.com/khno/weirdJs/issues
+
 ### 这是什么
 
 一名从事了多年开发的前端老鸟，利用边缘冷门知识点的讲解来带领你去了解你所不知道的事。
