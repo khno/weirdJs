@@ -1,4 +1,4 @@
-# WeirdJs （怪异的JS）
+# WeirdJs 
 
 https://github.com/khno/weirdJs/issues
 
